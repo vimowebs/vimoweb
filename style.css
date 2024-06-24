@@ -1,0 +1,33 @@
+body{
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color:#202020;
+    overflow:hidden;
+}
+canvas{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.txt {
+    width: 100%;
+    height:100%;
+    font-size: 9vw;
+    font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+    text-align: center;
+    text-transform: uppercase;
+    color:black;
+    letter-spacing: 10px;
+    mix-blend-mode:screen;
+    text-shadow: 
+        0 0 5px gold,
+        0 0 5px gold,
+        0 0 5px gold,
+        0 0 5px gold,
+        0 0 5px gold,
+        0 0 5px gold;
+}
