@@ -1,5 +1,5 @@
 {
-    "name": "VimoWeb",
+    "name": "vimoweb",
     "short_name": "vimoweb",
     "start_url": "index.html",
     "display": "standalone",
